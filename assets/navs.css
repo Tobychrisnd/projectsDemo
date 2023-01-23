@@ -1,0 +1,24 @@
+.body{
+	
+	margin: 0;
+	font-family: sans-serif;
+	align-items: center;
+}
+.navs {
+	float: left;
+	color: teal;
+	text-align: center;
+	text-decoration: none;
+	display: flex;
+	justify-content: space-around;
+    align-items:center;
+    background-color:teal;
+    font-family: sans-serif;
+}
+#heading {
+    color: whitesmoke;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+    text-align: center;
+}
